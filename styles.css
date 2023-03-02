@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(114, 7, 7);
+    color: rgb(162, 162, 76);
+    font-size: 2em;
+    margin-left: 1.5em;
+}
+input {
+    font-size: 1.4em;
+    background-color: rgb(40, 38, 38);
+    color: white;
+}
+button {
+    font-size: .8em;
+    border-radius: 5px;
+    background-color: rgb(167, 163, 163)
+}
